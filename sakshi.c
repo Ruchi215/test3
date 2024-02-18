@@ -10,3 +10,4 @@ printf("Hello what are u doing ");
 
 printf("Exams are horrible");
 >>>>>>> b1
+printf("Be happy");
